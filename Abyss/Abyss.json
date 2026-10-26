@@ -1,0 +1,12 @@
+{
+    "id": "Abyss",
+    "name": "Abyss",
+    "author": ["zz"],
+    "description": "Risk/reward pacts chosen before a run starts. Every boon is paid for.",
+    "prefix": "abyss",
+    "main_file": "main.lua",
+    "version": "0.1.0",
+    "priority": 0,
+    "badge_colour": "5b2a86",
+    "dependencies": ["Steamodded (>=1.0.0)"]
+}
